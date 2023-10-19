@@ -1,0 +1,325 @@
+instruction,input,output
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you give me Applied to Leased Duration for multifamily?'},"{'Question': 'Can you give me Applied to Leased Duration for multifamily?', 'Metric Category Selected': 'multifamily-benchmark-for-applied-to-leased-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is the current multifamily benchmark for Applied to Leased Duration ?'},"{'Question': 'What is the current multifamily benchmark for Applied to Leased Duration ?', 'Metric Category Selected': 'multifamily-benchmark-for-applied-to-leased-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give me the Applied to Leased Duration for multifamily benchmark'},"{'Question': 'Give me the Applied to Leased Duration for multifamily benchmark', 'Metric Category Selected': 'multifamily-benchmark-for-applied-to-leased-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is Applied to Leased Duration for my portfolio?'},"{'Question': 'What is Applied to Leased Duration for my portfolio?', 'Metric Category Selected': 'pmc-benchmark-for-applied-to-leased-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give me the Applied to Leased Duration for my community.'},"{'Question': 'Give me the Applied to Leased Duration for my community.', 'Metric Category Selected': 'pmc-benchmark-for-applied-to-leased-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you tell me the Applied to Leased Duration for my organization?'},"{'Question': 'Can you tell me the Applied to Leased Duration for my organization?', 'Metric Category Selected': 'pmc-benchmark-for-applied-to-leased-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give the definition of Applied to Leased Duration ?'},"{'Question': 'Give the definition of Applied to Leased Duration ?', 'Metric Category Selected': 'property-applied-to-leased-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you tell me the Applied to Leased Duration for my property?'},"{'Question': 'Can you tell me the Applied to Leased Duration for my property?', 'Metric Category Selected': 'property-applied-to-leased-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is Applied to Leased Duration ?'},"{'Question': 'What is Applied to Leased Duration ?', 'Metric Category Selected': 'property-applied-to-leased-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you give me Applied to Leased Ratio for multifamily?'},"{'Question': 'Can you give me Applied to Leased Ratio for multifamily?', 'Metric Category Selected': 'multifamily-benchmark-for-applied-to-leased-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is the current multifamily benchmark for Applied to Leased Ratio ?'},"{'Question': 'What is the current multifamily benchmark for Applied to Leased Ratio ?', 'Metric Category Selected': 'multifamily-benchmark-for-applied-to-leased-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give me the Applied to Leased Ratio for multifamily benchmark'},"{'Question': 'Give me the Applied to Leased Ratio for multifamily benchmark', 'Metric Category Selected': 'multifamily-benchmark-for-applied-to-leased-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is Applied to Leased Ratio for my portfolio?'},"{'Question': 'What is Applied to Leased Ratio for my portfolio?', 'Metric Category Selected': 'pmc-benchmark-for-applied-to-leased-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give me the Applied to Leased Ratio for my community.'},"{'Question': 'Give me the Applied to Leased Ratio for my community.', 'Metric Category Selected': 'pmc-benchmark-for-applied-to-leased-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you tell me the Applied to Leased Ratio for my organization?'},"{'Question': 'Can you tell me the Applied to Leased Ratio for my organization?', 'Metric Category Selected': 'pmc-benchmark-for-applied-to-leased-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give the definition of Applied to Leased Ratio ?'},"{'Question': 'Give the definition of Applied to Leased Ratio ?', 'Metric Category Selected': 'property-applied-to-leased-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you tell me the Applied to Leased Ratio for my property?'},"{'Question': 'Can you tell me the Applied to Leased Ratio for my property?', 'Metric Category Selected': 'property-applied-to-leased-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is Applied to Leased Ratio ?'},"{'Question': 'What is Applied to Leased Ratio ?', 'Metric Category Selected': 'property-applied-to-leased-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you give me Lead to Toured Duration for multifamily?'},"{'Question': 'Can you give me Lead to Toured Duration for multifamily?', 'Metric Category Selected': 'multifamily-benchmark-for-lead-to-toured-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is the current multifamily benchmark for Lead to Toured Duration ?'},"{'Question': 'What is the current multifamily benchmark for Lead to Toured Duration ?', 'Metric Category Selected': 'multifamily-benchmark-for-lead-to-toured-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give me the Lead to Toured Duration for multifamily benchmark'},"{'Question': 'Give me the Lead to Toured Duration for multifamily benchmark', 'Metric Category Selected': 'multifamily-benchmark-for-lead-to-toured-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is Lead to Toured Duration for my portfolio?'},"{'Question': 'What is Lead to Toured Duration for my portfolio?', 'Metric Category Selected': 'pmc-benchmark-for-lead-to-toured-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give me the Lead to Toured Duration for my community.'},"{'Question': 'Give me the Lead to Toured Duration for my community.', 'Metric Category Selected': 'pmc-benchmark-for-lead-to-toured-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you tell me the Lead to Toured Duration for my organization?'},"{'Question': 'Can you tell me the Lead to Toured Duration for my organization?', 'Metric Category Selected': 'pmc-benchmark-for-lead-to-toured-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give the definition of Lead to Toured Duration ?'},"{'Question': 'Give the definition of Lead to Toured Duration ?', 'Metric Category Selected': 'property-lead-to-toured-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you tell me the Lead to Toured Duration for my property?'},"{'Question': 'Can you tell me the Lead to Toured Duration for my property?', 'Metric Category Selected': 'property-lead-to-toured-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is Lead to Toured Duration ?'},"{'Question': 'What is Lead to Toured Duration ?', 'Metric Category Selected': 'property-lead-to-toured-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you give me Lead to Toured Ratio for multifamily?'},"{'Question': 'Can you give me Lead to Toured Ratio for multifamily?', 'Metric Category Selected': 'multifamily-benchmark-for-lead-to-toured-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is the current multifamily benchmark for Lead to Toured Ratio ?'},"{'Question': 'What is the current multifamily benchmark for Lead to Toured Ratio ?', 'Metric Category Selected': 'multifamily-benchmark-for-lead-to-toured-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give me the Lead to Toured Ratio for multifamily benchmark'},"{'Question': 'Give me the Lead to Toured Ratio for multifamily benchmark', 'Metric Category Selected': 'multifamily-benchmark-for-lead-to-toured-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is Lead to Toured Ratio for my portfolio?'},"{'Question': 'What is Lead to Toured Ratio for my portfolio?', 'Metric Category Selected': 'pmc-benchmark-for-lead-to-toured-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give me the Lead to Toured Ratio for my community.'},"{'Question': 'Give me the Lead to Toured Ratio for my community.', 'Metric Category Selected': 'pmc-benchmark-for-lead-to-toured-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you tell me the Lead to Toured Ratio for my organization?'},"{'Question': 'Can you tell me the Lead to Toured Ratio for my organization?', 'Metric Category Selected': 'pmc-benchmark-for-lead-to-toured-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give the definition of Lead to Toured Ratio ?'},"{'Question': 'Give the definition of Lead to Toured Ratio ?', 'Metric Category Selected': 'property-lead-to-toured-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you tell me the Lead to Toured Ratio for my property?'},"{'Question': 'Can you tell me the Lead to Toured Ratio for my property?', 'Metric Category Selected': 'property-lead-to-toured-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is Lead to Toured Ratio ?'},"{'Question': 'What is Lead to Toured Ratio ?', 'Metric Category Selected': 'property-lead-to-toured-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you give me Toured to Applied Duration for multifamily?'},"{'Question': 'Can you give me Toured to Applied Duration for multifamily?', 'Metric Category Selected': 'multifamily-benchmark-for-toured-to-applied-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is the current multifamily benchmark for Toured to Applied Duration ?'},"{'Question': 'What is the current multifamily benchmark for Toured to Applied Duration ?', 'Metric Category Selected': 'multifamily-benchmark-for-toured-to-applied-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give me the Toured to Applied Duration for multifamily benchmark'},"{'Question': 'Give me the Toured to Applied Duration for multifamily benchmark', 'Metric Category Selected': 'multifamily-benchmark-for-toured-to-applied-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is Toured to Applied Duration for my portfolio?'},"{'Question': 'What is Toured to Applied Duration for my portfolio?', 'Metric Category Selected': 'pmc-benchmark-for-toured-to-applied-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give me the Toured to Applied Duration for my community.'},"{'Question': 'Give me the Toured to Applied Duration for my community.', 'Metric Category Selected': 'pmc-benchmark-for-toured-to-applied-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you tell me the Toured to Applied Duration for my organization?'},"{'Question': 'Can you tell me the Toured to Applied Duration for my organization?', 'Metric Category Selected': 'pmc-benchmark-for-toured-to-applied-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give the definition of Toured to Applied Duration ?'},"{'Question': 'Give the definition of Toured to Applied Duration ?', 'Metric Category Selected': 'property-toured-to-applied-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you tell me the Toured to Applied Duration for my property?'},"{'Question': 'Can you tell me the Toured to Applied Duration for my property?', 'Metric Category Selected': 'property-toured-to-applied-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is Toured to Applied Duration ?'},"{'Question': 'What is Toured to Applied Duration ?', 'Metric Category Selected': 'property-toured-to-applied-duration'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you give me Toured to Applied Ratio for multifamily?'},"{'Question': 'Can you give me Toured to Applied Ratio for multifamily?', 'Metric Category Selected': 'multifamily-benchmark-for-toured-to-applied-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is the current multifamily benchmark for Toured to Applied Ratio ?'},"{'Question': 'What is the current multifamily benchmark for Toured to Applied Ratio ?', 'Metric Category Selected': 'multifamily-benchmark-for-toured-to-applied-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give me the Toured to Applied Ratio for multifamily benchmark'},"{'Question': 'Give me the Toured to Applied Ratio for multifamily benchmark', 'Metric Category Selected': 'multifamily-benchmark-for-toured-to-applied-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is Toured to Applied Ratio for my portfolio?'},"{'Question': 'What is Toured to Applied Ratio for my portfolio?', 'Metric Category Selected': 'pmc-benchmark-for-toured-to-applied-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give me the Toured to Applied Ratio for my community.'},"{'Question': 'Give me the Toured to Applied Ratio for my community.', 'Metric Category Selected': 'pmc-benchmark-for-toured-to-applied-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you tell me the Toured to Applied Ratio for my organization?'},"{'Question': 'Can you tell me the Toured to Applied Ratio for my organization?', 'Metric Category Selected': 'pmc-benchmark-for-toured-to-applied-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Give the definition of Toured to Applied Ratio ?'},"{'Question': 'Give the definition of Toured to Applied Ratio ?', 'Metric Category Selected': 'property-toured-to-applied-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'Can you tell me the Toured to Applied Ratio for my property?'},"{'Question': 'Can you tell me the Toured to Applied Ratio for my property?', 'Metric Category Selected': 'property-toured-to-applied-ratio'}"
+"You will be provided with an input question. Your task is to select the pivot option that best suits the question from the provided options .
+The pivot options and the reasons for selecting them are provided. Follow these steps:
+i. Select the suitable pivot option:
+ a. When ratio  or percentage is being asked in the question select conversionRatio as pivot
+ b. when duration is being asked in the question select conversionVelocity as pivot
+ii. Clearly specify the chosen pivot option.",{'Question': 'What is Toured to Applied Ratio ?'},"{'Question': 'What is Toured to Applied Ratio ?', 'Metric Category Selected': 'property-toured-to-applied-ratio'}"

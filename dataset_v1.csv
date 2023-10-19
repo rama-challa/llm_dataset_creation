@@ -1,0 +1,346 @@
+﻿App,Report Title,Tool,MetaData.Column.Name,Metric,Output
+ChatCDP,Conversion Analytics,Metadata,Lede,Applied to Leased Ratio,"A yardstick to evaluate the performance of your Property Management Company (PMC) relative to Multifamily.  
+
+Performance of your PMC is satisfactory if it lies within this range."
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Applied to Leased Ratio,"For example, let’s say the Multifamily benchmark for applied to leased conversion rate lies between 45.0% to 55.0%.
+
+Now, Applied to Leased ratio of:
+- 50.0% is satisfactory for your PMC. 
+- 60.0% exceeds expectations.
+- 40.0% is not satisfactory."
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Applied to Leased Ratio,"It allows the PMC to:
+- Identify areas of improvement.
+- Assess the quality of applicants.
+- Assess the quality of the screening process.
+- Gain insights into best practices.
+"
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Applied to Leased Ratio,We calculate this as follows: - Calculate the average conversion rate for all PMCs onboarded with Hyly for a given time range. - Calculate the 25th and 75th percentile values from this conversion rate distribution. - The range between the 25th and 75th percentile defines the Benchmark for Multifamily.
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Applied to Leased Ratio,"For example:
+- There are 8 PMCs onboarded with Hyly (PMC1 PMC2, PMC3, PMC4, PMC5, PMC6, PMC7, and PMC8) with average conversion rates of 20.0%,25.0%,30.0%,35.0%, 40.0%,45.0%,50.0%, and 55.0% respectively for the month of January.
+- The 25th percentile value for this property distribution is 25.0%.
+- The 75th percentile value is 45.0%.
+- The benchmark is 25.0% to 45.0%.
+- The performance of PMC2, PMC3, PMC4, PMC5 and PMC6 are satisfactory as they lie within the range.
+- Performance of PMC1 is not satisfactory (20%<benchmark range)
+- PMC7 and PMC8 are excelling. (50%, 55%>benchmark range) "
+ChatCDP,Conversion Analytics,Metadata,Lede,Applied to Leased Ratio,"A yardstick to evaluate the performance of a property relative to your Property Management Company (PMC).  
+
+Performance of properties lying within this range is satisfactory for your PMC."
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Applied to Leased Ratio,"For example, let’s say the PMC benchmark applied to leased conversion rate lies between 35.0% to 45.0%.
+
+Now, Applied to Leased ratio of:
+- 40.0% is satisfactory for your property.
+- 50.0% exceeds expectations.
+- 30.0% is not satisfactory."
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Applied to Leased Ratio,"It allows the property to:
+- Identify areas of improvement.
+- Assess the quality of applicants.
+- Assess the quality of the screening process.
+- Gain insights into best practices.
+"
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Applied to Leased Ratio,"We calculate this as follows:
+- Calculate the average conversion rate for all properties within a PMC for a given time range.
+- Calculate the 25th and 75th percentile values from this conversion rate distribution.
+- The range between the 25th and 75th percentile defines the Benchmark for the PMC.  "
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Applied to Leased Ratio,"For example:
+- There are 8 properties in a PMC (Pr1 Pr2, Pr3, Pr4, Pr5, Pr6, Pr7, and Pr8) with average conversion rates of 20.0%,25.0%,30.0%,35.0%, 40.0%,45.0%,50.0%, and 55.0% respectively for the month of January.
+- The 25th percentile value for this property distribution is 25.0%.
+- The 75th percentile value is 50.0%.
+- The benchmark is 15.0% to 55.0%.
+- The performance of Pr2, Pr3, Pr4, Pr5 and Pr6 are satisfactory as they lie within the range.
+- Performance of Pr1 is not satisfactory (20%<benchmark range)
+- Pr7 and Pr8 are excelling. (50%, 55%>benchmark range) "
+ChatCDP,Conversion Analytics,Metadata,Lede,Toured to Applied Ratio,A yardstick to evaluate the performance of your Property Management Company (PMC) relative to Multifamily. Performance of your PMC is satisfactory if it lies within this range.
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Toured to Applied Ratio,"For example, let’s say the Multifamily benchmark for toured to applied conversion rate lies between 15.0% to 25.0%. Now Toured to Applied ratio of: - 20.0% is satisfactory for your PMC. - 30.0% exceeds expectations. - 10.0% is not satisfactory."
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Toured to Applied Ratio,It allows the PMC to: - Identify areas of improvement. - Assess the quality of the sales process. - Assess the quality of the touring experience. - Gain insights into best practices.
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Toured to Applied Ratio,We calculate this as follows: - Calculate the average conversion rate for all PMCs onboarded with Hyly for a given time range. - Calculate the 25th and 75th percentile values from this conversion rate distribution. - This range between the 25th and 75th percentile defines the Benchmark for Multifamily.
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Toured to Applied Ratio,"For example: - There are 8 PMCs onboarded with Hyly (PMC1 PMC2, PMC3, PMC4, PMC5, PMC6, PMC7, and PMC8) with average conversion rates of 15.0%,20.0%,25.0%,30.0%, 35.0%,40.0%,45.0%, and 50.0% respectively for the month of January. - The 25th percentile value for this property distribution is 20.0% - The 75th percentile value is 40.0%. - The benchmark is 20.0% to 40.0% - The performance of PMC2, PMC3, PMC4, PMC5 and PMC6 are satisfactory as they lie within the range. - Performance of PMC1 is not satisfactory (15.0%<benchmark range) - PMC7 and PMC8 are excelling. (45.0% and 50.0% > benchmark range)"
+ChatCDP,Conversion Analytics,Metadata,Lede,Toured to Applied Ratio,A yardstick to evaluate the performance of a property relative to your Property Management Company (PMC). Performance of properties lying within this range is satisfactory for your PMC.
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Toured to Applied Ratio,"For example, let’s say the PMC benchmark for toured to applied conversion rate lies between 25.0% to 35.0% Now, Toured to Applied ratio of: - 30.0% is satisfactory for your property. - 40.0% exceeds expectations. - 20.0% is not satisfactory."
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Toured to Applied Ratio,It allows the property to: - Identify areas of improvement. - Assess the quality of the sales process. - Assess the quality of the touring experience. - Gain insights into best practices.
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Toured to Applied Ratio,We calculate this as follows: - Calculate the average conversion rate for all properties within a PMC for a given time range. - Calculate the 25th and 75th percentile values from this conversion rate distribution. - This range between the 25th and 75th percentile defines the Benchmark for the PMC.
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Toured to Applied Ratio,"For example: - There are 8 properties in a PMC (Pr1 Pr2, Pr3, Pr4, Pr5, Pr6, Pr7, and Pr8) with average conversion rates of 15.0%, 20.0%,25.0%,30.0%, 35.0%,40.0%,45.0%, and 50.0% respectively for the month of January. - The 25th percentile value for this property distribution is 20.0% - The 75th percentile value is 40.0%. - The benchmark is 20.0% to 40.0% - The performance of Pr2, Pr3, Pr4, Pr5 and Pr6 are satisfactory as they lie within the range. - Performance of Pr1 is not satisfactory (15.0%<benchmark range) - Pr7 and Pr8 are excelling. (45.0% and 50.0% > benchmark range)"
+ChatCDP,Conversion Analytics,Metadata,Lede,Lead to Toured Ratio,A yardstick to evaluate the performance of your Property Management Company (PMC) relative to Multifamily. Performance of your PMC is satisfactory if it lies within this range.
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Lead to Toured Ratio,"For example, let’s say the Multifamily benchmark for lead to toured conversion rate lies between 12.0% to 22.0% Now, Lead to Toured ratio of: - 18.0% is satisfactory for your PMC. - 25.0% exceeds expectations. - 10.0% is not satisfactory."
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Lead to Toured Ratio,It allows the PMC to: - Identify areas of improvement. - Assess the quality of lead sources. - Gain insights into best practices.
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Lead to Toured Ratio,We calculate this as follows: - Calculate the average conversion rate for all PMCs onboarded with Hyly for a given time range. - Calculate the 25th and 75th percentile values from this conversion rate distribution. - This range between the 25th and 75th percentile defines the Benchmark for Multifamily.
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Lead to Toured Ratio,"For example: - There are 8 PMCs onboarded with Hyly (PMC1 PMC2, PMC3, PMC4, PMC5, PMC6, PMC7, and PMC8) with average conversion rates of 25.0%,30.0%,35.0%,40.0%, 45.0%,50.0%,55.0%, and 60.0% respectively for the month of January. - The 25th percentile value for this property distribution is 30.0% - The 75th percentile value is 50.0%. - The benchmark is 30.0% to 50.0% - The performance of PMC2, PMC3, PMC4, PMC5 and PMC6 are satisfactory as they lie within the range. - Performance of PMC1 is not satisfactory (25.0%<benchmark range) - PMC7 and PMC8 are excelling. (55.0% and 60.0% > benchmark range)"
+ChatCDP,Conversion Analytics,Metadata,Lede,Lead to Toured Ratio,A yardstick to evaluate the performance of a property relative to your Property Management Company (PMC). Performance of properties lying within this range is satisfactory for your PMC.
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Lead to Toured Ratio,"For example, let’s say the PMC benchmark for lead to toured conversion rate lies between 20.0% to 30.0% Now, Lead to Toured ratio of: - 25.0% is satisfactory for your property. - 35.0% exceeds expectations. - 15.0% is not satisfactory."
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Lead to Toured Ratio,It allows the property to: - Identify areas of improvement. - Assess the quality of lead sources. - Gain insights into best practices.
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Lead to Toured Ratio,We calculate this as follows: - Calculate the average conversion rate for all properties within a PMC for a given time range. - Calculate the 25th and 75th percentile values from this conversion rate distribution. - This range between the 25th and 75th percentile defines the Benchmark for the PMC.
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Lead to Toured Ratio,"For example: - There are 8 properties in a PMC (Pr1 Pr2, Pr3, Pr4, Pr5, Pr6, Pr7, and Pr8) with average conversion rates of 25.0%,30.0%,35.0%,40.0%, 45.0%,50.0%,55.0%, and 60.0% respectively for the month of January. - The 25th percentile value for this property distribution is 30.0% - The 75th percentile value is 50.0%. - The benchmark is 30.0% to 50.0% - The performance of Pr2, Pr3, Pr4, Pr5 and Pr6 are satisfactory as they lie within the range. - Performance of Pr1 is not satisfactory (25.0%<benchmark range) - Pr7 and Pr8 are excelling. (55.0% and 60.0% > benchmark range)"
+ChatCDP,Conversion Analytics,Metadata,Lede,Property Management Company,The name of the organization that manages multiple properties
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Property Management Company,"Bozzuto, Greystar"
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Property Management Company,N/A
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Property Management Company,N/A
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Property Management Company,N/A
+ChatCDP,Conversion Analytics,Metadata,Lede,Property Name,The name of the property which consists of multiple units
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Property Name,"Icon at Dulles, Solea Keller, The Mews at Princeton Junction"
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Property Name,N/A
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Property Name,N/A
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Property Name,N/A
+ChatCDP,Conversion Analytics,Metadata,Lede,Conversion Rate,#NAME?
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Conversion Rate,"For example, in the month of January, for a property: - 100 leads toured. - Out of these, 30 leads applied. - Conversion rate for this PMC is 30%."
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Conversion Rate,It allows us to: - Assess the quality of leads at each milestone. - Gain insights into best practices and identify areas of improvement. - Assess the quality of inter-milestone experience.
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Conversion Rate,"- They measure the percentage of leads that convert at a key “CrSTAL” milestone in their lead-to-lease journey. - The higher the conversion duration, the better is the performance. - The following key Conversion Rates are considered: * Lead to Toured Rate * Toured to Applied Rate * Applied to Leased Rate - At the Property Management Company (PMC) and Multifamily level, benchmarks are calculated to provide a yardstick for evaluating the performance of a property or PMC respectively."
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Conversion Rate,"For example, - For a property, in the month of January, Toured to Applied Ratio is 40.0%. - Say, the PMC benchmark for Toured to Applied rate comes to 34.0% to 45.0%. The average being 40.0%. - The Conversion rate for the property (40.0%) is compared to this benchmark. - Upon comparison, it shows that the performance of property P is satisfactory in comparison to it’s PMC as 40.0% lies between 35.0% and 45.0% - Say, the Multifamily benchmark for Toured to Applied rate comes to 40.0% to 50.0%. - The Conversion rate of the PMC is 35.0 %. - Upon comparison, it shows that the performance of PMC is not satisfactory in comparison to the Multifamily benchmark as 35.0% days < [40.0-50.0%]"
+ChatCDP,Conversion Analytics,Metadata,Lede,Conversion Velocity,#NAME?
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Conversion Velocity,"For example, - Time taken by a lead to apply after touring a property is 5.0 days. - Conversion velocity for this lead is 5.0 days."
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Conversion Velocity,N/A
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Conversion Velocity,"- They measure the time taken by a lead between key “CrSTAL” milestones in their lead-to-lease journey. - The shorter the conversion duration, the better is the performance. - The following key Conversion Velocities are considered: * Lead to Toured duration * Toured to Applied duration * Applied to Leased duration - Conversion duration at the property level is the 75th percentile of the conversion duration of all leads within a given time period. - At the Property Management Company (PMC) and Multifamily level, benchmarks are calculated to provide a yardstick for evaluating the performance of a property or PMC respectively."
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Conversion Velocity,"For example, - A lead has a Toured to Applied duration of 5.0 days. - In the month of January, for the property P, the conversion duration is 7.0days. - Say, the PMC benchmark for Toured to Applied duration comes to 4.0 to 6.0 days. The average being 5.0 days. - The Conversion duration for the property (7.0days) is compared to this benchmark. - Upon comparison, it shows that performance of property P is not satisfactory in comparison to it’s PMC as 7.0 days > [4.0 to 6.0 days] - Say, the Multifamily benchmark for Toured to Applied duration comes to 6.0 to 8.0 days - The Conversion duration of the PMC is 5.0 days. - Upon comparison, it shows that performance of PMC is excellent in comparison to the Multifamily benchmark as 5.0 days < [6.0-8.0 days]"
+ChatCDP,Conversion Analytics,Metadata,Lede,Date Range,The specific time interval in which events of interest take place and the span of time based on which a report is generated
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Date Range,"Last Month, Last Quarter, This Year"
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Date Range,N/A
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Date Range,N/A
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Date Range,N/A
+ChatCDP,Conversion Analytics,Metadata,Lede,All Dimensions,"Date Range, Property Management Company, Property Name, Percentile"
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,All Dimensions,N/A
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,All Dimensions,N/A
+ChatCDP,Conversion Analytics,Metadata,Godeeper,All Dimensions,N/A
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,All Dimensions,N/A
+ChatCDP,Conversion Analytics,Metadata,Lede,Metric Types (All Durations),"Lead to Toured Duration, Toured to Applied Duration, Applied to Leased Duration"
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Metric Types (All Durations),N/A
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Metric Types (All Durations),N/A
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Metric Types (All Durations),N/A
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Metric Types (All Durations),N/A
+ChatCDP,Conversion Analytics,Metadata,Lede,Metric Types (All Ratios),"Lead to Toured Ratio, Toured to Applied Ratio, Applied to Leased Ratio"
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Metric Types (All Ratios),N/A
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Metric Types (All Ratios),N/A
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Metric Types (All Ratios),N/A
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Metric Types (All Ratios),N/A
+ChatCDP,Conversion Analytics,Metadata,Lede,Applied to Leased Duration,A yardstick to evaluate the performance of your Property Management Company (PMC) relative to Multifamily. Performance of your PMC is satisfactory if it lies within this range.
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Applied to Leased Duration,"For example, let’s say the Multifamily benchmark for applied to leased conversion duration lies between 10.0 days to 20.0 days Now, Applied to Leased duration of: - 15.0 days is satisfactory for your PMC. - 9.0 days exceeds expectations. - 25.0 days is not satisfactory."
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Applied to Leased Duration,It allows the PMC to: - Identify areas of improvement. - Assess the quality of applicants. - Assess the quality of the screening process. - Gain insights into best practices.
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Applied to Leased Duration,We calculate this as follows: - Calculate the average conversion duration for all PMCs onboarded by Hyly for a given time range. - Calculate the 25th and 75th percentile values from this conversion duration distribution. - This range between the 25th and 75th percentile defines the Benchmark for Multifamily.
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Applied to Leased Duration,"For example: - There are 8 PMCs onboarded by Hyly (PMC1 PMC2, PMC3, PMC4, PMC5, PMC6, PMC7, and PMC8) with average conversion durations of 8.0, 10.0 12.0, 14.0, 16.0, 18.0, 20.0 and 22.0 days respectively for the month of January. - The 25th percentile value for this property distribution is 10.0 days. - The 75th percentile value is 18.0 days. - The benchmark is 10.0 to 18.0 days. - The performance of PMC2, PMC3, PMC4, PMC5 and PMC6 are satisfactory as they lie within the range. - Performance of PMC7 and PMC8 is not satisfactory (20.0 and 22.0 days > benchmark range) - Performance of PMC1 exceeds expectations. (8.0 days < benchmark range)"
+ChatCDP,Conversion Analytics,Metadata,Lede,Applied to Leased Duration,"A yardstick to evaluate the performance of a property relative to your Property Management Company (PMC).  
+
+Performance of properties lying within this range is satisfactory for your PMC.
+"
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Applied to Leased Duration,"For example, let’s say the PMC benchmark for applied to leased conversion duration lies between 15.0 days to 20.0 days
+
+Now, Applied to Leased duration of:
+- 18.0 days is satisfactory for your property.
+- 12.0 days exceeds expectations.
+- 25.0 days is not satisfactory."
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Applied to Leased Duration,"It allows the property to:
+- Identify areas of improvement.
+- Assess the quality of applicants.
+- Assess the quality of the screening process.
+- Gain insights into best practices."
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Applied to Leased Duration,We calculate this as follows: - Calculate the average conversion duration for all properties within a PMC for a given time range. - Calculate the 25th and 75th percentile values from this conversion duration distribution. - This range between the 25th and 75th percentile defines the Benchmark for the PMC.
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Applied to Leased Duration,"For example:
+- There are 8 properties in a PMCs (Pr1 Pr2, Pr3, Pr4, Pr5, Pr6, Pr7, and Pr8) with average conversion durations of 8.0, 10.0 12.0, 14.0, 16.0, 18.0, 20.0 and 22.0 days respectively for the month of January.
+-  The 25th percentile value for this property distribution is 10.0 days.
+- The 75th percentile value is 18.0 days.
+- The benchmark is 10.0 to 18.0 days.
+- The performance of Pr2, Pr3, Pr4, Pr5 and Pr6 are satisfactory as they lie within the range.
+- Performance of Pr7 and Pr8 is not satisfactory (20.0 and 22.0 days > benchmark range)
+- Performance of Pr1 exceeds expectations.  (8.0 days < benchmark range) "
+ChatCDP,Conversion Analytics,Metadata,Lede,Applied to Leased Duration,It is the time taken in days for a lead who applied to lease. 
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Applied to Leased Duration,"If a lead, after the submission of application, takes 20 days and 12 hours to lease, The Applied to Leased Duration is 20.5 days "
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Applied to Leased Duration,"This allows us to assess:
+- The quality of the applicants.
+- The efficiency of the leasing process.
+- The preferences of successful applicants."
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Applied to Leased Duration,"We calculate this as follows:
+- We note down the time when all leads for property apply within a specific time frame. (Time of application)
+- We record the time of the start of the lease for these leads. (Time of lease)
+- For each lead, we calculate the Applied to Leased Duration by taking the difference between the time of lease and the time of application (in days).
+- From this range of time differences, we identify the value at the 75th percentile. This value represents the Applied to Leased Duration for the property."
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Applied to Leased Duration,"For example:
+- If 10 leads applied for a lease on 1st January 
+- 4 of them lease. 
+      *1 lease begins on 12th January
+      *1 lease begins on 13th January
+      *1 lease begins on 15th January
+      *1 lease begins on 16th January
+(For the sake of simplicity we are assuming time to be the same each day, say 11:00 AM)
+- Applied to Leased Duration for the leads is 11.0, 12.0, 14.0, and 15.0 days respectively.
+- The 75th percentile value for this distribution is 14.0 days
+- Therefore, the Applied to Leased Duration for the property is 14.0 days."
+ChatCDP,Conversion Analytics,Metadata,Lede,Toured to Applied Duration,"A yardstick to evaluate the performance of your Property Management Company (PMC) relative to Multifamily.  
+
+Performance of your PMC is satisfactory if it lies within this range.
+"
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Toured to Applied Duration,"For example, let’s say the Multifamily benchmark for toured to applied conversion duration lies between 7.0 days to 12.0 days.
+
+Now, Toured to Applied duration of:
+- 9.0 days is satisfactory for your PMC.
+- 3.0 days exceeds expectations.
+- 13.0 days is not satisfactory.  "
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Toured to Applied Duration,"It allows the PMC to:
+- Identify areas of improvement.
+- Assess the quality of the sales process. 
+- Assess the quality of the touring experience. 
+- Gain insights into best practices.
+"
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Toured to Applied Duration,"We calculate this as follows:
+- Calculate the average conversion duration for all PMCs onboarded by Hyly for a given time range.
+- Calculate the 25th and 75th percentile values from this conversion duration distribution.
+- This range between the 25th and 75th percentile defines the Benchmark for Multifamily.  "
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Toured to Applied Duration,"For example:
+- There are 8 PMCs onboarded by Hyly (PMC1 PMC2, PMC3, PMC4, PMC5, PMC6, PMC7, and PMC8) with average conversion durations of 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0 and 10.0 days respectively for the month of January.
+-  The 25th percentile value for this property distribution is 4.0 days.
+- The 75th percentile value is 8.0 days.
+- The benchmark is 4.0 to 8.0 days.
+- The performance of PMC2, PMC3, PMC4, PMC5 and PMC6 are satisfactory as they lie within the range.
+- Performance of PMC7 and PMC8 is not satisfactory (9.0 and 10.0 days > benchmark range)
+- Performance of PMC1 exceeds expectations.  (3.0 days < benchmark range) "
+ChatCDP,Conversion Analytics,Metadata,Lede,Lead to Toured Duration,A yardstick to evaluate the performance of your Property Management Company (PMC) relative to Multifamily. Performance of your PMC is satisfactory if it lies within this range.
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Lead to Toured Duration,"For example, let’s say the Multifamily benchmark for lead to toured conversion duration lies between 2.0 days to 5.0 days.
+
+Now, Lead to Toured duration of:
+- 3.0 days is satisfactory for your PMC.
+- 1.0 day exceeds expectations.
+- 6.0 days is not satisfactory. 
+"
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Lead to Toured Duration,"It allows the PMC to:
+- Identify areas of improvement.
+- Assess the quality of lead sources. 
+- Gain insights into best practices.
+"
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Lead to Toured Duration,We calculate this as follows: - Calculate the average conversion duration for all PMCs onboarded by Hyly for a given time range. - Calculate the 25th and 75th percentile values from this conversion duration distribution. - This range between the 25th and 75th percentile defines the Benchmark for Multifamily.
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Lead to Toured Duration,"For example: - There are 8 PMCs onboarded by Hyly (PMC1 PMC2, PMC3, PMC4, PMC5, PMC6, PMC7, and PMC8) with average conversion durations of 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0 and 8.0 days respectively for the month of January. - The 25th percentile value for this property distribution is 2.0 days. - The 75th percentile value is 6.0 days. - The benchmark is 2.0 to 6.0 days. - The performance of PMC2, PMC3, PMC4, PMC5 and PMC6 are satisfactory as they lie within the range. - Performance of PMC7 and PMC8 is not satisfactory (7.0 and 8.0 days > benchmark range) - Performance of PMC1 exceeds expectations. (1.0 days < benchmark range)"
+ChatCDP,Conversion Analytics,Metadata,Lede,Toured to Applied Duration,"A yardstick to evaluate the performance of a property relative to your Property Management Company (PMC).  
+
+Performance of properties lying within this range is satisfactory for your PMC."
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Toured to Applied Duration,"For example, let’s say the PMC benchmark for toured to applied conversion duration lies between 5.0 days to 10.0 days.
+
+Now, Toured to Applied duration of:
+- 8.0 days is satisfactory for your property.
+- 3.0 days exceeds expectations.
+- 13.0 days is not satisfactory.  "
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Toured to Applied Duration,"It allows the property to:
+- Identify areas of improvement.
+- Assess the quality of the sales process. 
+- Assess the quality of the touring experience. 
+- Gain insights into best practices.
+"
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Toured to Applied Duration,"We calculate this as follows:
+- Calculate the average conversion duration for all properties within a PMC for a given time range.
+- Calculate the 25th and 75th percentile values from this conversion duration distribution.
+- This range between 25th and 75th percentile defines the Benchmark for the PMC.  "
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Toured to Applied Duration,"For example:
+- There are 8 properties in a PMC (Pr1 Pr2, Pr3, Pr4, Pr5, Pr6, Pr7, and Pr8) with average conversion durations of 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0 and 10.0 days respectively for the month of January.
+-  The 25th percentile value for this property distribution is 4.0 days.
+- The 75th percentile value is 8.0 days.
+- The benchmark is 4.0 to 8.0 days.
+- The performance of Pr2, Pr3, Pr4, Pr5 and Pr6 are satisfactory as they lie within the range.
+- Performance of Pr7 and Pr8 is not satisfactory (9.0 and 10.0 days > benchmark range)
+- Performance of Pr1 exceeds expectations.  (3.0 days < benchmark range) "
+ChatCDP,Conversion Analytics,Metadata,Lede,Lead to Toured Duration,"A yardstick to evaluate the performance of a property relative to your Property Management Company (PMC).  
+
+Performance of properties lying within this range is satisfactory for your PMC."
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Lead to Toured Duration,"For example, let’s say the PMC benchmark for lead to toured conversion duration lies between 2.0 days to 4.0 days.
+
+Now, Lead to Toured duration of:
+- 3.0 days is satisfactory for your property.
+- 1.0 day exceeds expectations.
+- 5.0 days is not satisfactory. 
+"
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Lead to Toured Duration,"It allows the property to:
+- Identify areas of improvement.
+- Assess the quality of lead sources. 
+- Gain insights into best practices.
+"
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Lead to Toured Duration,"We calculate this as follows:
+- Calculate the average conversion duration for all properties within a PMC for a given time range.
+- Calculate the 25th and 75th percentile values from this conversion duration distribution.
+- This range between the 25th and 75th percentile defines the Benchmark for the PMC.  "
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Lead to Toured Duration,"For example:
+- There are 8 properties in a PMC (Pr1 Pr2, Pr3, Pr4, Pr5, Pr6, Pr7, and Pr8) with average conversion durations of 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0 and 8.0 days respectively for the month of January.
+-  The 25th percentile value for this property distribution is 2.0 days.
+- The 75th percentile value is 6.0 days.
+- The benchmark is 2.0 to 6.0 days.
+- The performance of Pr2, Pr3, Pr4, Pr5 and Pr6 are satisfactory as they lie within the range.
+- Performance of Pr7 and Pr8 is not satisfactory (7.0 and 8.0 days > benchmark range)
+- Performance of Pr1 exceeds expectations.  (1.0 days < benchmark range) "
+ChatCDP,Conversion Analytics,Metadata,Lede,Toured to Applied Duration,It is the time taken in days for a lead who toured to apply.
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Toured to Applied Duration,"If a lead, after their first tour, takes 7 days and 12 hours to apply, The Toured to Applied Duration is 7.5 days "
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Toured to Applied Duration,"This allows us to assess:
+- The quality of the sales process.
+- The degree to which the tour aligns with the prospect’s preferences. 
+- The effectiveness of touring experience."
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Toured to Applied Duration,"We calculate this as follows:
+- We note down the time when all leads for property take the first tour within a specific time frame. (Time of initial tour)
+- We record when an application is submitted by these leads. (Time of application)
+- For each lead, we calculate the Toured to Applied Duration by taking the difference between the time of application and the time of the initial tour (in days).
+- From this range of time differences, we identify the value at the 75th percentile. This value represents the Toured to Applied Duration for the property."
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Toured to Applied Duration,"For example:
+- If 10 leads toured on 1st January 
+- 4 of them applied. 
+      * 1 first toured on 5th January 
+      * 1 first toured on 6th January
+      * 1 first toured on 7th January
+      * 1 first toured on 8th January
+(For the sake of simplicity we are assuming time to be the same each day, say 11:00 AM)
+- Toured to Applied Duration for the leads is 4.0, 5.0, 6.0, and 7.0 days respectively.
+- The 75th percentile value for this distribution is 6.0 days
+- Therefore, the Toured to Applied Duration for the property is 6.0 days."
+ChatCDP,Conversion Analytics,Metadata,Lede,Lead to Toured Duration,It is the time taken in days for a  created lead to take the first tour.
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Lead to Toured Duration,"If a lead, after creation, takes 3 days and 12 hours to schedule a tour, The Lead to Toured Duration is 3.5 days "
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Lead to Toured Duration,"This allows us to assess:
+- The quality of the leads. 
+- The efficiency of the lead-to-tour process. 
+- Seasonal demand patterns and market trends."
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Lead to Toured Duration,"We calculate this as follows:
+- We note down the time when all leads for a property are created within a specific time frame. (Time of contact creation)
+- We record when the first tour is taken by these leads. (Time of the initial tour)
+- For each lead, we calculate the Lead to Toured Duration by taking the difference between the time of initial tour and the time of contact creation (in days).
+- From this range of time differences, we identify the value at the 75th percentile. This value represents the Lead to Toured Duration for the property."
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Lead to Toured Duration,"For example:
+- If 10 were created on 1st January 
+- 4 of them toured. 
+      * 1 first toured on 2nd January 
+      * 1 first toured on 3rd January
+      * 1 first toured on 4th January
+      * 1 first toured on 5th January
+(For the sake of simplicity we are assuming time to be the same each day, say 11:00 AM)
+- Lead to Toured Duration for the leads is 1.0, 2.0, 3.0, and 4.0 days respectively.
+- The 75th percentile value is 3.0 days
+- Therefore, the Lead to Toured Duration for the property is 3.0 days."
+ChatCDP,Conversion Analytics,Metadata,Lede,Applied to Leased Ratio,It is the percentage of leads who lease after submitting an application.
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Applied to Leased Ratio,"If 10 leads apply and 5 out of those finally lease, the Applied to Leased Ratio is 50%."
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Applied to Leased Ratio,"This allows us to assess:
+- The quality of the applicants.
+- The efficiency of the leasing process.
+- The preferences of successful applicants."
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Applied to Leased Ratio,"We calculate this as follows:
+- We take the number of leads who apply in the given period. (#Applied)
+- We determine how many of them lease, irrespective of time. (#Leased)
+- Applied to Leased Rate = (#Leased/#Applied)*100 %"
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Applied to Leased Ratio,"For example:
+- If 10 leads applied  in the month of January
+- 5 of them leased. 3 leased in January and 2 leased in February.
+- Applied to Leased Rate for January is 50%."
+ChatCDP,Conversion Analytics,Metadata,Lede,Toured to Applied Ratio,It is the percentage of leads applying after taking a tour.
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Toured to Applied Ratio,"If 10 leads toured and 2 out of those applied, the Toured to Applied Ratio is 20%."
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Toured to Applied Ratio,"This allows us to assess:
+- The quality of the sales process.
+- The degree to which the tour aligns with the prospect’s preferences. 
+- The effectiveness of touring experience."
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Toured to Applied Ratio,"We calculate this as follows:
+- We take the number of leads who toured the given period. (#Toured)
+- We determine how many of them apply, irrespective of time. (#Applied)
+- Toured to Applied Rate = (#Applied/#Toured)*100 %"
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Toured to Applied Ratio,"For example:
+- If 10 leads toured in the month of January
+- 2 of them have applied. 1 applied in January and 1 applied in February.
+- Toured to Applied Rate for January is 20%."
+ChatCDP,Conversion Analytics,Metadata,Lede,Lead to Toured Ratio,It is the percentage of leads taking the first tour.
+ChatCDP,Conversion Analytics,Metadata,Lede.Example,Lead to Toured Ratio,"If 10 leads were created and 4 toured, the Lead to Toured Ratio is 40%."
+ChatCDP,Conversion Analytics,Metadata,Why it matters?,Lead to Toured Ratio,"This allows us to assess:
+- The quality of the leads. 
+- The efficiency of the lead-to-tour process. 
+- Seasonal demand patterns and market trends."
+ChatCDP,Conversion Analytics,Metadata,Godeeper,Lead to Toured Ratio,"We calculate this as follows:
+- We take the number of leads created in the given period. (#Leads)
+- We determine how many of them have taken the first tour, irrespective of time. (#Toured)
+- Lead to Toured Rate = (#Toured/#Leads)*100 %"
+ChatCDP,Conversion Analytics,Metadata,Godeeper.Example,Lead to Toured Ratio,"For example:
+- If 10 leads were created in the month of January
+- 4 of them have toured. 2 first toured in January and 2 first toured in February.
+- Lead to Toured Rate for January is 40%."

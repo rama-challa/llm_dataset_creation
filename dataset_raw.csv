@@ -1,0 +1,19 @@
+﻿instruction,metric,hierarchy
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Applied to Leased Ratio,Multifamily Level
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Applied to Leased Ratio,PMC Level
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Toured to Applied Ratio,Multifamily Level
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Toured to Applied Ratio,PMC Level
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Lead to Toured Ratio,Multifamily Level
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Lead to Toured Ratio,PMC Level
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Applied to Leased Duration,Multifamily Level
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Applied to Leased Duration,PMC Level
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Applied to Leased Duration,Property Level
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Toured to Applied Duration,Multifamily Level
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Lead to Toured Duration,Multifamily Level
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Toured to Applied Duration,PMC Level
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Lead to Toured Duration,PMC Level
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Toured to Applied Duration,Property Level
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Lead to Toured Duration,Property Level
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Applied to Leased Ratio,Property Level
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Toured to Applied Ratio,Property Level
+"Given the possible list of metric-name-options and information-need-options, pick exactly one metric-name-option and one or more information-need-options",Lead to Toured Ratio,Property Level

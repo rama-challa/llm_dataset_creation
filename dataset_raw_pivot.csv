@@ -1,0 +1,73 @@
+﻿instruction,metric,hierarchy
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Applied to Leased Duration,Multifamily Level
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Applied to Leased Duration,PMC Level
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Applied to Leased Duration,Property Level
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Applied to Leased Ratio,Multifamily Level
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Applied to Leased Ratio,PMC Level
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Applied to Leased Ratio,Property Level
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Lead to Toured Duration,Multifamily Level
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Lead to Toured Duration,PMC Level
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Lead to Toured Duration,Property Level
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Lead to Toured Ratio,Multifamily Level
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Lead to Toured Ratio,PMC Level
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Lead to Toured Ratio,Property Level
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Toured to Applied Duration,Multifamily Level
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Toured to Applied Duration,PMC Level
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Toured to Applied Duration,Property Level
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Toured to Applied Ratio,Multifamily Level
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Toured to Applied Ratio,PMC Level
+"You will receive a ""question"" and ""pivot-options"" as your json input.
+Your task is to select the ""pivot-option"" whose ""pivot-criteria"" best matches the question.
+Please respond with the ""pivot-name"" that corresponds to the matched ""pivot-criteria""
+Do not give an explanation.",Toured to Applied Ratio,Property Level
